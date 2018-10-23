@@ -1,0 +1,40 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-color: lightgrey;
+}
+.wrapper {
+  width: 100%;
+  margin: 0 auto;
+  padding: 5%;
+}
+img{
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+h1{
+  text-align: center;
+}
+h2,h3 {
+  text-align: center;
+}
+h2{
+  text-transform: uppercase;
+}
+h3{
+  text-transform: capitalize;
+}
+ul li{
+  background-color: white;
+  list-style: none;
+  margin: 5px 0px;
+  padding:5px;
+  border-radius: 5px;
+}
+p{
+  text-align: center;
+}
