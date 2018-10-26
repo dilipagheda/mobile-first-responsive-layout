@@ -141,6 +141,7 @@ a:visited {
 .skills {
   margin-bottom: 40px;
   width: 100%;
+  padding:1em;
 }
 .skills p{
   text-align: center;
